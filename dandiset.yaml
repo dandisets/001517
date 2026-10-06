@@ -25,7 +25,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Semenov, Iurii; Pakhomov, Andrei (2026) Evaluation of
   Di-8-ANEPPS Compatibility with Strobe Fluorescence Microscopy for Membrane Voltage
-  Imaging (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001517/draft
+  Imaging (Version 0.261006.1856) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001517/0.261006.1856
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -55,19 +55,33 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-06-27T16:09:04.235913+00:00'
+datePublished: '2026-10-06T18:56:04.172217+00:00'
 description: 'This experiment aimed to assess whether the voltage-sensitive dye Di-8-ANEPPS
   can be effectively used with a strobe fluorescence microscopy system. CHO cells
   were loaded with 5 µM Di-8-ANEPPS for 30 minutes at room temperature in the dark,
   replacing FluoVolt.  '
+doi: 10.48324/dandi.001517/0.261006.1856
 ethicsApproval: []
-id: DANDI:001517/draft
+id: DANDI:001517/0.261006.1856
 identifier: DANDI:001517
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001517/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001517/0.261006.1856/assets.yaml
 name: Evaluation of Di-8-ANEPPS Compatibility with Strobe Fluorescence Microscopy
   for Membrane Voltage Imaging
+publishedBy:
+  endDate: '2026-10-06T18:56:04.172217+00:00'
+  id: urn:uuid:0ea418bf-ac87-4280-8e2e-eb0283f53c0b
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-06T18:56:04.172217+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:600e3d8e-cff1-433b-9aaf-095a0738e38f
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1016/j.bioelechem.2026.109283
   name: Sub-microsecond optical measurements of cell membrane charging and lesioning
@@ -78,8 +92,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001517/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001517/0.261006.1856
+version: 0.261006.1856
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Generation Temporal Interference Stimulation for Non-Invasive Neuromodulation
